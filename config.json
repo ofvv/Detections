@@ -1,0 +1,43 @@
+{
+  "bot": {
+    "token": ".X0ZnlQ.99-bRPqmJyBbHE3ayHuy3TeyDq0",
+    "owners": [],
+    "prefix": "anti!"
+  },
+  "guild": {
+    "ids": ["609735513724944401"]
+  },
+  "settings": {
+    "alt": {
+      "agerequirement": 1000,
+      "bypass": [],
+      "action": "kick"
+    },
+    "massmention": {
+      "limit": 3,
+      "bypass": [],
+      "action": ["kick", "delete"]
+    },
+    "linespam": {
+      "limit": 5,
+      "bypass": [],
+      "action": ["kick", "delete"]
+    },
+    "badwords": {
+      "bypass": [],
+      "action": ["kick", "delete"]
+    },
+    "urls": {
+      "bypass": [],
+      "action": ["kick", "delete"]
+    },
+    "invites": {
+      "bypass": [],
+      "action": ["kick", "delete"]
+    },
+    "selfbot": {
+      "bypass": [],
+      "action": ["kick", "delete"]
+    }
+  }
+}
